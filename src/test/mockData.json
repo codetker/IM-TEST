@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "type": "text",
+    "data": {
+      "content": "测试数据 1"
+    },
+    "isSys": 0,
+    "valid": 1,
+    "success": 1,
+    "ctime": 1561950706138,
+    "utime": 1561950706138,
+    "senderMsg": {
+      "name": "tk",
+      "uId": 1,
+      "isSelf": 0
+    },
+    "otherInfo": {
+      
+    }
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "data": {
+      "content": "http://img2.imgtn.bdimg.com/it/u=374521030,389725996&fm=26&gp=0.jpg",
+      "alt": ""
+    },
+    "isSys": 0,
+    "valid": 1,
+    "success": 1,
+    "ctime": 1561950706138,
+    "utime": 1561950706138,
+    "senderMsg": {
+      "name": "tk",
+      "uId": 1,
+      "isSelf": 1
+    },
+    "otherInfo": {
+      
+    }
+  },
+  {
+    "id": 3,
+    "type": "text",
+    "data": {
+      "content": "自己的数据:123123123123213123333333333333333333333gghkg"
+    },
+    "isSys": 0,
+    "valid": 1,
+    "success": 1,
+    "ctime": 1561950706138,
+    "utime": 1561950706138,
+    "senderMsg": {
+      "name": "tk",
+      "uId": 1,
+      "isSelf": 1
+    },
+    "otherInfo": {
+      
+    }
+  },
+  {
+    "id": 4,
+    "type": "sysText",
+    "data": {
+      "content": "xxx 加入了群聊"
+    },
+    "isSys": 1,
+    "valid": 1,
+    "success": 1,
+    "ctime": 1561950706138,
+    "utime": 1561950706138,
+    "senderMsg": {
+      "name": "tk",
+      "uId": 1,
+      "isSelf": 1
+    },
+    "otherInfo": {
+      
+    }
+  },
+  {
+    "id": 5,
+    "type": "text",
+    "data": {
+      "content": "这是一段长文本：是的法师法师法士大夫撒发生发生的发生发斯蒂芬是打发是飞洒发生法撒旦飞洒发沙发上富士达算法法师打发斯蒂芬"
+    },
+    "isSys": 0,
+    "valid": 1,
+    "success": 1,
+    "ctime": 1561950706138,
+    "utime": 1561950706138,
+    "senderMsg": {
+      "name": "tk",
+      "uId": 1,
+      "isSelf": 1
+    },
+    "otherInfo": {
+      
+    }
+  },
+  {
+    "id": 4,
+    "type": "sysText",
+    "data": {
+      "content": "您撤回了一条消息"
+    },
+    "isSys": 1,
+    "valid": 1,
+    "success": 1,
+    "ctime": 1561950706138,
+    "utime": 1561950706138,
+    "senderMsg": {
+      "name": "tk",
+      "uId": 1,
+      "isSelf": 1
+    },
+    "otherInfo": {
+      
+    }
+  }
+]
